@@ -1,0 +1,7 @@
+<suite name="Test login">
+<test name="TestN" allow-return-values="true">
+	<classes>
+		<class name="testLayer.LoginTest" />
+	</classes>
+</test>
+</suite>
